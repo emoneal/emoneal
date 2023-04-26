@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://i.pinimg.com/originals/15/a0/66/15a06641c2e0dcb634ad05305678995b.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://i.pinimg.com/originals/15/a0/66/15a06641c2e0dcb634ad05305678995b.png">
+  <img alt="Cute anime girl in classroom." src="https://i.pinimg.com/originals/15/a0/66/15a06641c2e0dcb634ad05305678995b.png">
+</picture>
+
 <h1 align="center">Hi 👋, I'm Emi</h1>
 <h3 align="center">A passionate full-stack developer</h3>
 
