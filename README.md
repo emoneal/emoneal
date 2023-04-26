@@ -7,9 +7,7 @@
 <h1 align="center">Hi 👋, I'm Emi</h1>
 <h3 align="center">A passionate full-stack developer</h3>
 
-<p align="left"> <a href="https://twitter.com/emmicodes" target="blank"><img src="https://img.shields.io/twitter/follow/emmicodes?logo=twitter&style=for-the-badge" alt="emmicodes" /></a> </p>
-
-- 💬 Ask me about **React**
+- 💬 Ask me about **React, JavaScript, or gaming**
 
 - ⚡ Fun fact **I'm a gamer and love coffee~**
 
