@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **React**
 
-- ⚡ Fun fact **I'm a gamer~**
+- ⚡ Fun fact **I'm a gamer and love coffee~**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
