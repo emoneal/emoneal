@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/emmicodes" target="blank"><img src="https://img.shields.io/twitter/follow/emmicodes?logo=twitter&style=for-the-badge" alt="emmicodes" /></a> </p>
 
-- 💬 Ask me about **React, NextJS, JavaScript, or Gaming**
+- 💬 Ask me about **Cybersecurity, Risk Management, Vulnerability Assessment, Incident Reporting, React, NextJS, JavaScript, or Gaming**
 
 - ⚡ Fun fact **I'm a gamer~**
 
