@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/emmicodes" target="blank"><img src="https://img.shields.io/twitter/follow/emmicodes?logo=twitter&style=for-the-badge" alt="emmicodes" /></a> </p>
 
-- 💬 Ask me about **Cybersecurity, Risk Management, Vulnerability Assessment, Incident Reporting, React, NextJS, JavaScript, or Gaming**
+- 💬 Ask me about **Cybersecurity, Risk Management, Vulnerability Assessment, Incident Reporting, React, NextJS, JavaScript, Japan, or Gaming**
 
-- ⚡ Fun fact **I'm a gamer~**
+- ⚡ Fun facts: **I'm a gamer, I -LOVE- coffee, and I lived in Japan for 12 years!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
