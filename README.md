@@ -15,9 +15,9 @@
 
 - 💬 Ask me about **Cybersecurity, Risk Management, Vulnerability Management, Incident Response, Cryptography, Security Awareness, Next.js, React, Japan, or gaming**
 
-- 📄 Know about my experiences [https://emioneal.com/resume](https://emioneal.com/resume)
+- 📄 [https://emioneal.com/resume](Check my resume here)
 
-- ⚡ Fun fact **I'm a gamer, I -LOVE- coffee, and I lived in Japan for 12 years!**
+- ⚡ Fun facts: **I'm a gamer, I -LOVE- coffee, and I lived in Japan for 12 years!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
