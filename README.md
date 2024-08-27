@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/ByteSizedEmmi" target="blank"><img src="https://img.shields.io/twitter/follow/ByteSizedEmmi?logo=twitter&style=for-the-badge" alt="ByteSizedEmmi" /></a> </p>
 
-- 🌱 I’m currently studying for my **CompTia Pentest+ certification**
+- 🌱 I’m currently studying for my **CompTIA Pentest+ certification**
 
 - 👨‍💻 All of my projects are available at [http://www.emioneal.com](http://www.emioneal.com)
 
