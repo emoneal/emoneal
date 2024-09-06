@@ -36,12 +36,12 @@
 
 <h3 align="left">Languages & Tools:</h3>
 <p align="left">
-<a href="https://kali.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kali/kali-icon.svg" alt="Kali Linux" width="40" height="40"/> </a>
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
-<a href="https://nmap.org/" target="_blank" rel="noreferrer"> <img src="https://nmap.org/favicon.ico" alt="Nmap" width="40" height="40"/> </a>
-<a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Wireshark_icon.svg/1200px-Wireshark_icon.svg.png" alt="Wireshark" width="40" height="40"/> </a>
-<a href="https://burpsuite.com" target="_blank" rel="noreferrer"> <img src="https://portswigger.net/cms/images/62/5b/7f2ddc2b400e-icon-burp-suite-300x300.png" alt="Burp Suite" width="40" height="40"/> </a>
-<a href="https://www.metasploit.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Metasploit_logo_and_wordmark.svg/1920px-Metasploit_logo_and_wordmark.svg.png" alt="Metasploit" width="40" height="40"/> </a>
+<a href="https://kali.org" target="_blank" rel="noreferrer"> <img src="https://www.kali.org/tools/nmap/images/kali-nmap.png" alt="Kali Linux" width="40" height="40"/> </a>
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Gnu-bash-logo.svg/1024px-Gnu-bash-logo.svg.png" alt="bash" width="40" height="40"/> </a>
+<a href="https://nmap.org/" target="_blank" rel="noreferrer"> <img src="https://nmap.org/images/sitelogo-nmap.png" alt="Nmap" width="40" height="40"/> </a>
+<a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"> <img src="https://www.wireshark.org/assets/images/wireshark-logo.png" alt="Wireshark" width="40" height="40"/> </a>
+<a href="https://portswigger.net/burp" target="_blank" rel="noreferrer"> <img src="https://portswigger.net/cms/images/54/96/8d982df60747-article-post-burp-suite-pro-replace.png" alt="Burp Suite" width="40" height="40"/> </a>
+<a href="https://www.metasploit.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/en/8/83/Metasploit-logo-2022.svg" alt="Metasploit" width="40" height="40"/> </a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 </p>
