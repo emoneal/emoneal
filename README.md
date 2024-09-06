@@ -38,10 +38,10 @@
 <p align="left">
   <a href="https://www.kali.org" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/kali-linux.png" alt="Kali Linux" width="40" height="40"/> </a>
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Gnu-bash-logo.svg/1024px-Gnu-bash-logo.svg.png" alt="bash" width="40" height="40"/> </a>
-  <a href="https://nmap.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/ios/50/000000/nmap.png" alt="Nmap" width="40" height="40"/> </a>
-  <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/ios/50/000000/wireshark.png" alt="Wireshark" width="40" height="40"/> </a>
-  <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/ios/50/000000/burp-suite.png" alt="Burp Suite" width="40" height="40"/> </a>
-  <a href="https://www.metasploit.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/ios/50/000000/metasploit.png" alt="Metasploit" width="40" height="40"/> </a>
+  <a href="https://nmap.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Nmap_logo.svg/1024px-Nmap_logo.svg.png" alt="Nmap" width="40" height="40"/> </a>
+  <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Wireshark_Logo.svg/1024px-Wireshark_Logo.svg.png" alt="Wireshark" width="40" height="40"/> </a>
+  <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Burp_Suite_Logo.svg/1280px-Burp_Suite_Logo.svg.png" alt="Burp Suite" width="40" height="40"/> </a>
+  <a href="https://www.metasploit.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Metasploit_Logo.svg/1200px-Metasploit_Logo.svg.png" alt="Metasploit" width="40" height="40"/> </a>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 </p>
