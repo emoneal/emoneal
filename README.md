@@ -37,11 +37,11 @@
 <h3 align="left">Languages & Tools:</h3>
 <p align="left">
   <a href="https://www.kali.org" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/kali-linux.png" alt="Kali Linux" width="40" height="40"/> </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/ios/50/000000/bash.png" alt="bash" width="40" height="40"/> </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/bash.png" alt="Bash" width="40" height="40"/> </a>
   <a href="https://nmap.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/nmap.png" alt="Nmap" width="40" height="40"/> </a>
   <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/ios/50/000000/wireshark.png" alt="Wireshark" width="40" height="40"/> </a>
   <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/ios/50/000000/burp-suite.png" alt="Burp Suite" width="40" height="40"/> </a>
-  <a href="https://www.metasploit.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/ios/50/000000/metasploit.png" alt="Metasploit" width="40" height="40"/> </a>
+  <a href="https://www.metasploit.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/metasploit.png" alt="Metasploit" width="40" height="40"/> </a>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/ios/50/000000/python.png" alt="Python" width="40" height="40"/> </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/ios/50/000000/react-native.png" alt="React" width="40" height="40"/> </a>
 </p>
