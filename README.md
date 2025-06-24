@@ -1,55 +1,72 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://i.pinimg.com/originals/15/a0/66/15a06641c2e0dcb634ad05305678995b.png">
   <source media="(prefers-color-scheme: light)" srcset="https://i.pinimg.com/originals/15/a0/66/15a06641c2e0dcb634ad05305678995b.png">
-  <img alt="Cute anime girl in classroom." src="https://i.pinimg.com/originals/15/a0/66/15a06641c2e0dcb634ad05305678995b.png">
+  <img alt="Cute anime girl in classroom." src="https://i.pinimg.com/originals/15/a0/66/15a06641c2e0dcb634ad05305678995b.png" width="100%">
 </picture>
 
-<h1 align="center">Hi 👋, I'm Emi</h1>
-<h3 align="center">A passionate cybersecurity enthusiast & full-stack developer</h3>
+<h1 align="center">Hi, I'm Emi ✨</h1>
+<h3 align="center">Cybersecurity Enthusiast | Blue Teaming | Honeypots | Incident Response</h3>
 
-<p align="left"> <a href="https://twitter.com/ByteSizedEmmi" target="blank"><img src="https://img.shields.io/twitter/follow/ByteSizedEmmi?logo=twitter&style=for-the-badge" alt="ByteSizedEmmi" /></a> </p>
-
-- 🔒 Currently studying for **CompTIA Pentest+** and diving deep into **ethical hacking**
-- 🌱 Building expertise in **red teaming, penetration testing, vulnerability management, and incident response**
-- 👨‍💻 All of my projects and cybersecurity labs can be found at [http://www.emioneal.com](http://www.emioneal.com)
-- 💬 Ask me about **Cybersecurity, Risk Management, Incident Response, Pentesting, Cryptography, Security Audits, Next.js, or Japanese culture**
-- 🎮 Outside of hacking and coding, I’m a gamer, coffee addict, and spent 12 years in Japan!
-
-<h3 align="left">Certifications & Courses:</h3>
-<p>
-  <ul>
-    <li>🔐 <strong>CompTIA Security+</strong> (July 2024)</li>
-    <li>🔒 <strong>CompTIA Pentest+</strong> (in progress)</li>
-  </ul>
+<p align="center">
+  <a href="https://twitter.com/ByteSizedEmmi"><img src="https://img.shields.io/twitter/follow/ByteSizedEmmi?logo=twitter&style=for-the-badge" /></a>
+  <a href="https://www.abuseipdb.com/user/216569"><img src="https://www.abuseipdb.com/contributor/216569.svg" alt="AbuseIPDB Badge" width="200" /></a>
 </p>
 
-<h3 align="left">Cybersecurity Platforms:</h3>
+---
+
+### 🔐 About Me
+
+- 🔒 Actively focused on **Blue Team cybersecurity** and **SOC analyst roles**
+- 📚 Studying for **CompTIA CySA+** and working toward **Pentest+**
+- 🤖 Building hands-on labs using **SIEM tools, honeypots, IDS/IPS**, and forensic analysis platforms
+- ☕ Gamer, coffee lover, and lived in Japan for 12 years
+- 🌍 Fluent in English and Japanese, blending tech with cross-cultural communication
+
+---
+
+### 🎓 Certifications
+
+- 🔐 **CompTIA Security+** (July 2024)
+- ⚖️ **CompTIA CySA+** *(in progress)*
+- 🔢 TryHackMe Blue Team Path *(in progress)*
+
+---
+
+### ⚖️ Platforms & Projects
+
+- 🧵 [TryHackMe Labs](https://www.tryhackme.com/p/emmioneal) — Blue Team, SOC Level 1, Malware Analysis
+- 📡 AbuseIPDB Contributor — Reporting malicious IPs from honeypots
+- 📚 Portfolio & blog: [emioneal.com](http://www.emioneal.com)
+
+---
+
+### 🧰 Tools & Technologies
 <p align="left">
-  <a href="https://www.tryhackme.com/p/emmioneal" target="_blank"><img src="https://tryhackme-badges.s3.amazonaws.com/emmioneal.png" alt="TryHackMe" /></a>
+  <img src="https://img.icons8.com/color/48/000000/kali-linux.png" alt="Kali Linux" width="40" />
+  <img src="https://img.icons8.com/color/48/000000/bash.png" alt="Bash" width="40" />
+  <img src="https://img.icons8.com/color/48/000000/nmap.png" alt="Nmap" width="40" />
+  <img src="https://img.icons8.com/ios/50/000000/wireshark.png" alt="Wireshark" width="40" />
+  <img src="https://img.icons8.com/ios/50/000000/burp-suite.png" alt="Burp Suite" width="40" />
+  <img src="https://img.icons8.com/color/48/000000/metasploit.png" alt="Metasploit" width="40" />
+  <img src="https://img.icons8.com/ios/50/000000/python.png" alt="Python" width="40" />
+  <img src="https://img.icons8.com/ios/50/000000/react-native.png" alt="React" width="40" />
 </p>
-<a href="https://www.abuseipdb.com/user/216569">
-  <img src="https://www.abuseipdb.com/contributor/216569.svg" alt="AbuseIPDB Contributor Badge" width="300">
-</a>
 
+---
 
-
-<h3 align="left">Connect with me:</h3>
+### 👤 Connect with Me
 <p align="left">
-<a href="https://twitter.com/ByteSizedEmmi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ByteSizedEmmi" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/emioneal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emioneal" height="30" width="40" /></a>
+  <a href="https://twitter.com/ByteSizedEmmi"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="30" /></a>
+  <a href="https://linkedin.com/in/emioneal"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30" /></a>
 </p>
 
-<h3 align="left">Languages & Tools:</h3>
-<p align="left">
-  <a href="https://www.kali.org" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/kali-linux.png" style="text-decoration: none;" alt="Kali Linux" width="40" height="40"/> </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/bash.png" style="text-decoration: none;" alt="Bash" width="40" height="40"/> </a>
-  <a href="https://nmap.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/nmap.png" alt="Nmap" style="text-decoration: none;" width="40" height="40"/> </a>
-  <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/ios/50/000000/wireshark.png" style="text-decoration: none;" alt="Wireshark" width="40" height="40"/> </a>
-  <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/ios/50/000000/burp-suite.png" style="text-decoration: none;" alt="Burp Suite" width="40" height="40"/> </a>
-  <a href="https://www.metasploit.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/metasploit.png" style="text-decoration: none;" alt="Metasploit" width="40" height="40"/> </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/ios/50/000000/python.png" style="text-decoration: none;" alt="Python" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/ios/50/000000/react-native.png" style="text-decoration: none;" alt="React" width="40" height="40"/> </a>
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emoneal&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
-<h3 align="left">GitHub Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emoneal&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="emoneal" /></p>
+---
+
+*Thanks for stopping by! I'm always open to collaboration or mentorship in the cybersecurity space.*
