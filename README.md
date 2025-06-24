@@ -27,6 +27,12 @@
 <p align="left">
   <a href="https://www.tryhackme.com/p/emmioneal" target="_blank"><img src="https://tryhackme-badges.s3.amazonaws.com/emmioneal.png" alt="TryHackMe" /></a>
 </p>
+<p align="left">
+  <a href="https://www.abuseipdb.com/user/216569" title="AbuseIPDB is an IP address blacklist for webmasters and sysadmins to report IP addresses engaging in abusive behavior on their networks">
+    <img src="https://www.abuseipdb.com/contributor/216569.svg" alt="AbuseIPDB Contributor Badge" style="width: 236px;border-radius: 5px;border-top: 5px solid #058403;border-right: 5px solid #111;border-bottom: 5px solid #111;border-left: 5px solid #058403;padding: 5px;">
+  </a>
+</p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -45,13 +51,6 @@
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/ios/50/000000/python.png" style="text-decoration: none;" alt="Python" width="40" height="40"/> </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/ios/50/000000/react-native.png" style="text-decoration: none;" alt="React" width="40" height="40"/> </a>
 </p>
-
-<p align="center">
-  <a href="https://www.abuseipdb.com/user/216569" title="AbuseIPDB is an IP address blacklist for webmasters and sysadmins to report IP addresses engaging in abusive behavior on their networks">
-    <img src="https://www.abuseipdb.com/contributor/216569.svg" alt="AbuseIPDB Contributor Badge" style="width: 236px;border-radius: 5px;border-top: 5px solid #058403;border-right: 5px solid #111;border-bottom: 5px solid #111;border-left: 5px solid #058403;padding: 5px;">
-  </a>
-</p>
-
 
 <h3 align="left">GitHub Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emoneal&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="emoneal" /></p>
