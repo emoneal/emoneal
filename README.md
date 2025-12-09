@@ -17,11 +17,11 @@
 
 ## 🔐 About Me
 
-I’m a blue team focused cybersecurity learner building real hands on experience through home labs, SIEM integrations, honeypots, threat intelligence workflows, and digital forensics practice.
+I’m a blue team focused cybersecurity learner building real hands on experience through home labs, Splunk SIEM workflows, honeypots, threat intelligence pipelines, and digital forensics practice.
 
 I specialize in:
 - Network defense and monitoring  
-- Log analysis and alert tuning  
+- Log analysis, correlation, and alert tuning  
 - Incident response and containment  
 - Threat hunting and malicious traffic analysis  
 
@@ -47,15 +47,16 @@ I lived in Japan for 12 years, love coffee a little too much, and enjoy blending
 
 ### **SOC Home Lab**
 Building a complete blue team monitoring environment using:
-- Wazuh SIEM  
-- Sysmon and Windows Event Logs  
-- Zeek network analysis  
-- Elastic dashboards for visualization  
+- **Splunk SIEM** for log ingestion, dashboards, and detection development  
+- Sysmon and Windows Event Logs for endpoint telemetry  
+- Zeek for network visibility  
+- Custom dashboards for alerts and threat hunting  
 
 ### **Honeypot Traffic Analysis**
-- Capturing and analyzing attacker traffic  
-- Automated reporting to AbuseIPDB  
-- Studying patterns in malicious behavior  
+- Feeding honeypot logs directly into **Splunk**  
+- Correlating attacker behavior, scanning patterns, and payload attempts  
+- Automated malicious IP reporting to AbuseIPDB  
+- Studying trends in command and control attempts and SSH brute force activity  
 
 ### **Forensics and Malware Triage**
 Practicing with tools such as:
@@ -65,7 +66,7 @@ Practicing with tools such as:
 - Autopsy  
 - Volatility  
 
-To explore live response, memory forensics, and artifact analysis.
+Focusing on live response, memory forensics, malware behavioral analysis, and artifact extraction.
 
 *(More repos coming soon. Learning in public is part of the journey.)*
 
@@ -74,6 +75,7 @@ To explore live response, memory forensics, and artifact analysis.
 ## 🧰 Tools & Technologies
 
 <p align="left">
+  <img src="https://img.icons8.com/color/48/000000/splunk.png" alt="Splunk" width="40"/>
   <img src="https://img.icons8.com/color/48/000000/kali-linux.png" alt="Kali Linux" width="40"/>
   <img src="https://img.icons8.com/color/48/000000/bash.png" alt="Bash" width="40"/>
   <img src="https://img.icons8.com/color/48/000000/nmap.png" alt="Nmap" width="40"/>
