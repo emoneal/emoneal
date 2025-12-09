@@ -61,11 +61,4 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emoneal&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
 *Thanks for stopping by! I'm always open to collaboration or mentorship in the cybersecurity space.*
