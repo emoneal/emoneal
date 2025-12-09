@@ -8,7 +8,6 @@
 <h3 align="center">Cybersecurity Enthusiast | Blue Teaming | Honeypots | Incident Response</h3>
 
 <p align="center">
-  <a href="https://twitter.com/ByteSizedEmmi"><img src="https://img.shields.io/twitter/follow/ByteSizedEmmi?logo=twitter&style=for-the-badge" /></a>
   <a href="https://www.abuseipdb.com/user/216569"><img src="https://www.abuseipdb.com/contributor/216569.svg" alt="AbuseIPDB Badge" width="200" /></a>
 </p>
 
