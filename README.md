@@ -73,17 +73,15 @@ Focusing on live response, memory forensics, malware behavioral analysis, and ar
 ---
 
 ## 🧰 Tools & Technologies
-
 <p align="left">
-  <img src="https://img.icons8.com/color/48/000000/splunk.png" alt="Splunk" width="40"/>
-  <img src="https://img.icons8.com/color/48/000000/kali-linux.png" alt="Kali Linux" width="40"/>
-  <img src="https://img.icons8.com/color/48/000000/bash.png" alt="Bash" width="40"/>
-  <img src="https://img.icons8.com/color/48/000000/nmap.png" alt="Nmap" width="40"/>
-  <img src="https://img.icons8.com/ios/50/000000/wireshark.png" alt="Wireshark" width="40"/>
-  <img src="https://img.icons8.com/ios/50/000000/burp-suite.png" alt="Burp Suite" width="40"/>
-  <img src="https://img.icons8.com/color/48/000000/metasploit.png" alt="Metasploit" width="40"/>
-  <img src="https://img.icons8.com/ios/50/000000/python.png" alt="Python" width="40"/>
-  <img src="https://img.icons8.com/ios/50/000000/react-native.png" alt="React" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/splunk/splunk-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" />
 </p>
 
 ---
