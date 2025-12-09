@@ -4,6 +4,8 @@
   <img alt="Cute anime girl in classroom." src="https://i.pinimg.com/originals/15/a0/66/15a06641c2e0dcb634ad05305678995b.png" width="100%">
 </picture>
 
+<br>
+
 <h1 align="center">Hi, I'm Emi ✨</h1>
 <h3 align="center">Blue Team Cybersecurity, Digital Forensics, Incident Response</h3>
 
@@ -32,7 +34,7 @@ I lived in Japan for 12 years, love coffee a little too much, and enjoy blending
 ## 🎓 Education & Certifications
 
 - 🎓 **Master of Science in Cybersecurity Management**  
-  Purdue University Global (In progress, Estimated Graduation Date Dec 2027)  
+  Purdue University Global (In progress, Estimated Graduation Dec 2027)  
   *Focused on incident response, risk management, and security operations*
 
 - 🔐 **CompTIA Security+** (2024)
@@ -53,10 +55,10 @@ Building a complete blue team monitoring environment using:
 - Custom dashboards for alerts and threat hunting  
 
 ### **Honeypot Traffic Analysis**
-- Feeding honeypot logs directly into Splunk 
-- Correlating attacker behavior, scanning patterns, and payload attempts  
-- Automated malicious IP reporting to AbuseIPDB  
-- Studying trends in command and control attempts and SSH brute force activity  
+- Automatically ingested honeypot logs into Splunk for real time analysis  
+- Correlated attacker behavior, scanning patterns, and payload attempts  
+- Manually reported malicious IPs to AbuseIPDB  
+- Studied trends in command and control attempts and SSH brute force activity  
 
 ### **Forensics and Malware Triage**
 Practicing with tools such as:
@@ -103,7 +105,7 @@ Focusing on live response, memory forensics, malware behavioral analysis, and ar
 
 ## 👤 Connect
 
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/emioneal">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30" />
   </a>
@@ -112,4 +114,3 @@ Focusing on live response, memory forensics, malware behavioral analysis, and ar
 ---
 
 <p align="center"><i>Thanks for visiting. Always open to collaboration, learning, or mentorship in cybersecurity.</i></p>
-
